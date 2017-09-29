@@ -36,6 +36,7 @@ Have a look at [`CONTRIBUTE.md`](https://github.com/rivermont/foss-list/blob/mas
     - [Text Editor](#text-editor)
       - [Atom](#atom)
       - [Brackets](#brackets)
+      - [IntelliJ Community]()
       - [Micro](#micro)
 
 ---
@@ -187,6 +188,12 @@ Have a look at [`CONTRIBUTE.md`](https://github.com/rivermont/foss-list/blob/mas
 * [Contribute](http://brackets.io/contribute.html)
 * [Write Extensions](https://github.com/adobe/brackets/wiki/How-to-Write-Extensions)
 * [Contribute Trabslations](https://github.com/adobe/brackets/blob/master/src/nls/README.md)
+
+### [IntelliJ Community](https://www.jetbrains.com/idea/)
+
+* [GitHub](https://github.com/JetBrains/intellij-community)
+* [Community Forum](https://intellij-support.jetbrains.com/hc/en-us/community/topics)
+* [Bug & Issue Tracker](https://youtrack.jetbrains.com/issues/IDEA)
 
 ### [Micro](https://micro-editor.github.io/index.html)
 
