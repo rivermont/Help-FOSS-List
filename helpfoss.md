@@ -32,6 +32,7 @@ Many people like free software but think that they cannot contribute if they can
   - [Text Editor](#text-editor)
     - [Atom](#atom)
     - [Brackets](#brackets)
+    - [Micro](#micro)
 
 ---
 
@@ -46,6 +47,7 @@ Many people like free software but think that they cannot contribute if they can
 ## Content Management System (CMS)
 
 ### [Concrete5](https://www.concrete5.org/)
+
 * [Get Involved](http://www.concrete5.org/developers)
 * [Contribute](http://documentation.concrete5.org/contribute)
 * [Developers Guide](http://documentation.concrete5.org/developers)
@@ -54,9 +56,11 @@ Many people like free software but think that they cannot contribute if they can
 * [Spread the Word](https://www.concrete5.org/marketplace/swag)
 
 ### [Drupal](https://www.drupal.org/)
+
 * [Get Involved](https://www.drupal.org/getting-involved)
 
 ### [Wordpress](https://wordpress.org/)
+
 * [Get involved](https://make.wordpress.org/)
 * [Design](https://make.wordpress.org/design)
 * [Accessibility](https://make.wordpress.org/accessibility/)
@@ -66,6 +70,7 @@ Many people like free software but think that they cannot contribute if they can
 ## Digital Rights
 
 ### [Electronic Frontier Foundation](https://www.eff.org)
+
 * [Ways to help EFF](https://www.eff.org/helpout)
 * [Take action in the movement](https://act.eff.org/)
 * [Code with EFF](https://www.eff.org/about/opportunities/volunteer/coding-with-eff)
@@ -74,7 +79,8 @@ Many people like free software but think that they cannot contribute if they can
 
 ## Email
 
-### [Thunderbird](https://www.mozilla.org/en-US/thunderbird/?icn=tabz)
+### [Thunderbird](https://www.mozilla.org/en-US/thunderbird//)
+
 * [Mozillas get involved page](https://support.mozilla.org/en-US/get-involved)
 * [Donate](https://donate.mozilla.org/en-US/)
 
@@ -148,7 +154,7 @@ Many people like free software but think that they cannot contribute if they can
 
 ### [Taiga](https://taiga.io/)
 
-* [Repository on github](https://github.com/taigaio/)
+* [GitHub](https://github.com/taigaio/)
 * [Support](https://tree.taiga.io/support/)
 
 
@@ -166,9 +172,21 @@ Many people like free software but think that they cannot contribute if they can
 
 ### [Atom](https://atom.io/)
 
-* [Github](https://github.com/atom/atom)
+* [GitHub](https://github.com/atom/atom)
 * [Discussion Board](https://github.com/atom/atom)
 * [Issue List](https://github.com/atom/atom/issues)
-* [Join Slack Community](http://atom-slack.herokuapp.com/)
+* [Slack Community](http://atom-slack.herokuapp.com/)
+
+### [Brackets](http://brackets.io/)
+
+* [GitHub](https://github.com/adobe/brackets)
+* [Contribute](http://brackets.io/contribute.html)
+* [Write Extensions](https://github.com/adobe/brackets/wiki/How-to-Write-Extensions)
+* [Contribute Trabslations](https://github.com/adobe/brackets/blob/master/src/nls/README.md)
+
+### [Micro](https://micro-editor.github.io/index.html)
+
+* [GitHub](https://github.com/zyedidia/micro)
+* [Glitter Chat](https://gitter.im/zyedidia/micro)
 
 ---
